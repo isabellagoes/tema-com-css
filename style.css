@@ -15,9 +15,10 @@ p {
     font-family: system-ui;
 }
 
-.cortitulo {
+.titulo {
     color:  #D90452;
     font-family: "Clicker Script", cursive;
+    font-size: 50px;
     font-weight: 400;
     font-style: normal;  
 }
