@@ -17,10 +17,9 @@ p {
 
 .cortitulo {
     color:  #D90452;
-    font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: weight;
-    font-style: normal;
+    font-family: "Clicker Script", cursive;
+    font-weight: 400;
+    font-style: normal;  
 }
 
 .quadrado {
